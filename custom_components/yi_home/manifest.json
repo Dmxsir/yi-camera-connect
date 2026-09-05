@@ -1,0 +1,13 @@
+{
+  "domain": "yi_home",
+  "name": "YI Camera Connect",
+  "codeowners": ["@Dmxsir"],
+  "config_flow": true,
+  "dependencies": ["stream"],
+  "documentation": "https://github.com/Dmxsir/yi-camera-connect",
+  "integration_type": "hub",
+  "iot_class": "local_polling",
+  "issue_tracker": "https://github.com/Dmxsir/yi-camera-connect/issues",
+  "requirements": [],
+  "version": "0.1.0"
+}
