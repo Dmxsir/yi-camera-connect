@@ -3,7 +3,7 @@
   "name": "YI Camera Connect",
   "codeowners": ["@Dmxsir"],
   "config_flow": true,
-  "dependencies": ["stream"],
+  "dependencies": ["hassio", "stream"],
   "documentation": "https://github.com/Dmxsir/yi-camera-connect",
   "integration_type": "hub",
   "iot_class": "local_polling",
